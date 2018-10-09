@@ -14,7 +14,7 @@ Co-organizadoras: Maria Juliana Benitez Saldivar
     * [Slides] (https://github.com/rladies/meetup-presentations_cordoba/blob/master/R-Ladies_taller_introduccion.pdf)
     * [Script](https://github.com/rladies/meetup-presentations_cordoba/blob/master/taller%20intro%20R.R)
 
-  2. **Taller de R para Ciencia de Datos**
+  2. **Taller de R Visualizacion de datos con ggplot2**
        - * 28 de agosto de 2018  , 14:00 hs.*
     * [Slides] (https://github.com/rladies/meetup-presentations_cordoba/blob/master/visualizacion%20de%20datos%20con%20ggplot2/ggplot_presentacion.pdf)
     * [Script](https://github.com/rladies/meetup-presentations_cordoba/blob/master/visualizacion%20de%20datos%20con%20ggplot2/ggplot2_script.R)
