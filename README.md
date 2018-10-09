@@ -9,7 +9,7 @@ Co-organizadoras: Maria Juliana Benitez Saldivar
 
 
 ##  eventos 
-  1. **Taller introductorio a R **
+  1. **Taller introductorio a R**
       - * 6 de junio de 2018  , 18:00 hs.*
     * [Slides] (https://github.com/rladies/meetup-presentations_cordoba/blob/master/R-Ladies_taller_introduccion.pdf)
     * [Script](https://github.com/rladies/meetup-presentations_cordoba/blob/master/taller%20intro%20R.R)
