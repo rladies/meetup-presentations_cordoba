@@ -5,7 +5,7 @@
 
 R-Ladies Córdoba fue fundado en Abril de 2018.
 
-Co-organizadoras: Maria Juliana Benitez Saldivar
+Co-organizadoras: Maria Juliana Benitez Saldivar, Marina Compagnuci y  Fernanda García 
 
 
 ##  eventos 
@@ -18,7 +18,15 @@ Co-organizadoras: Maria Juliana Benitez Saldivar
        - *28 de agosto de 2018, 14:00 hs.*
     * [Slides](https://github.com/rladies/meetup-presentations_cordoba/blob/master/visualizacion%20de%20datos%20con%20ggplot2/ggplot_presentacion.pdf)
     * [Script](https://github.com/rladies/meetup-presentations_cordoba/blob/master/visualizacion%20de%20datos%20con%20ggplot2/ggplot2_script.R)
-
+  
+  3. **Extracción datos de imágenes satelitales MODIS** y **Taller de RMarkdown**
+       - *25 de abril de 2020, 17:00 hs.*
+       Imágenes satelitales
+       * [Slides]()
+       * [Script]()
+       RMarkdown
+        * [Slides]()
+       * [Script]()
 Por más información escribinos a cordoba@rladies.org
 
 Sino encontranos en Twitter: @RLadiesCba
