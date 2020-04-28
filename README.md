@@ -23,13 +23,14 @@ Co-organizadoras: Maria Juliana Benitez Saldivar, Marina Compagnuci y  Fernanda 
        - *25 de abril de 2020, 17:00 hs.*
        
        Imágenes satelitales
+              
+       * [Script](https://github.com/rladies/meetup-presentations_cordoba/blob/master/2020-04-25%20meetup%20virtual%20en%20conjunto%20con%20RLadies%20Ush/Rladies-imagenes%20satelitales.R)
+       * [Set de datos](https://github.com/rladies/meetup-presentations_cordoba/blob/master/2020-04-25%20meetup%20virtual%20en%20conjunto%20con%20RLadies%20Ush/ejemplo.csv)
        
-       * [Slides]()
-       * [Script]()
        RMarkdown
        
-        * [Slides]()
-       * [Script]()
+       * [Slides](https://github.com/rladies/meetup-presentations_cordoba/blob/master/2020-04-25%20meetup%20virtual%20en%20conjunto%20con%20RLadies%20Ush/Taller%20de%20RMarkdown.pdf)
+       * [Script](https://github.com/rladies/meetup-presentations_cordoba/blob/master/2020-04-25%20meetup%20virtual%20en%20conjunto%20con%20RLadies%20Ush/ejemplo%20rmd%20diamantes.Rmd)
        
 Por más información escribinos a cordoba@rladies.org
 
