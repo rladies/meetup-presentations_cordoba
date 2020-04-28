@@ -21,12 +21,16 @@ Co-organizadoras: Maria Juliana Benitez Saldivar, Marina Compagnuci y  Fernanda 
   
   3. **Extracción datos de imágenes satelitales MODIS** y **Taller de RMarkdown**
        - *25 de abril de 2020, 17:00 hs.*
+       
        Imágenes satelitales
+       
        * [Slides]()
        * [Script]()
        RMarkdown
+       
         * [Slides]()
        * [Script]()
+       
 Por más información escribinos a cordoba@rladies.org
 
 Sino encontranos en Twitter: @RLadiesCba
