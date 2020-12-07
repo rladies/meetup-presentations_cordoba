@@ -40,6 +40,7 @@ Los capítulos de R-Ladies de Argentina nos unimos para recibir a Emil Hvitfeldt
 
 
   * Video del tutorial: https://www.youtube.com/watch?v=Sz8RB_fPYOk 
+  * [Links a slides y Rmd del tutorial](https://github.com/EmilHvitfeldt/useR2020-text-modeling-tutorial)
 
        
 Por más información escribinos a cordoba@rladies.org
