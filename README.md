@@ -34,7 +34,7 @@ Co-organizadoras: Maria Juliana Benitez Saldivar, Marina Compagnuci y  Fernanda 
        
    4. **useR! 2020 online tutorial: Predictive modeling with text using tidy data principles**
        
-         - * 27 de julio de 2020, 17:00 hs.*
+         - *27 de julio de 2020, 17:00 hs.*
          
 Los capítulos de R-Ladies de Argentina nos unimos para recibir a Emil Hvitfeldt y Julia Silge se y su tutorial en useR2020 “Predictive modeling with text using tidy data principles (Modelado predictivo con texto utilizando principios de datos tidy)”.
 
